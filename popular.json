@@ -40,7 +40,7 @@
             "type_id":3,
         },
         
-         {
+        {
             "id":4,
             "name":"Bula",
             "description":"Bula is made from enset (a plant called Abyssinia banana that grows in southern Ethiopia). Bula is prepared in a similar way to porridge using enset and butter, and served for breakfast with a glass of milk.",
@@ -147,55 +147,4 @@
         {
             "id":12,
             "name":"Roasted Fish",
-            "description":"Ethiopian fish has a unique taste due to the spices added to the roasting fish. It’s made from fish, garlic, ginger, and flour. Fish is served with bread and lemon; the lemon helps to soften the fish bones. In some parts of Ethiopia, raw fish is eaten with awaze but, to eat it raw, it has to be very fresh, that is, right after it is caught. It is not advisable to eat it raw otherwise as it quickly goes bad.",
-            "price":250,
-            "c":12,
-            "img":"Roasted-Fish.jpg",
-            "location":"Canada, British Columbia",
-            "created_at": "2021-11-17 10:09:08",
-            "updated_at": "2022-05-16 11:48:53",
-            "type_id":12,
-        },
-        
-        
-        {
-            "id":13,
-            "name":"Keye Sega Wot",
-            "description":"Keye wot is a non-fasting food made from chopped meat cooked with berbere, onion, garlic, ginger, and butter and served on injera. Keye wot is one of the main dishes served on holidays and special occasions. Ayeb is often served as a side dish to keye wot. The reason for this while keye wot is very tasty, it is also a very hot dish and the ayeb helps to reduce the heat.  ",
-            "price":250,
-            "c":13,
-            "img":"Sega-Wot.jpg",
-            "location":"Canada, British Columbia",
-             "created_at": "2021-11-17 10:09:08",
-            "updated_at": "2022-05-16 11:48:53",
-            "type_id":13,
-        },
-        
-        
-        {
-            "id":14,
-            "name":"Telba Fitfit",
-            "description":"Fasting Fitfit is made from soya beans, injera, onion, berbere, tomato, garlic, and pepper. It is a dish often served at gatherings or religious holidays.",
-            "price":100,
-            "c":14,
-            "img":"Telba-Fitfit.jpg",
-            "location":"Canada, British Columbia",
-             "created_at": "2021-11-17 10:09:08",
-            "updated_at": "2022-05-16 11:48:53",
-            "type_id":14,
-        },
-             {
-            "id":15,
-            "name":"Tibs",
-            "description":"Tibs is one of the most popular dishes for Ethiopians. It’s made from sliced beef, butter, garlic, chili, and onion. Tibs is a non-fasting food that is mostly served on holidays and special occasions. It is served with a hot sauce called Awaze.",
-            "price":450,
-            "c":15,
-            "img":"Tibs.jpg",
-            "location":"Canada, British Columbia",
-            "created_at": "2021-11-17 10:09:08",
-            "updated_at": "2022-05-16 11:48:53",
-            "type_id":15,
-        }
-       
-    ]
-}
+            "description":"Ethiopian fish has a unique taste due to the spices added to the roasting fish. It’s made from fish, garlic, ginger, and flour. Fish is served with bread and lemon; the lemon helps to soften the fish bones. In some parts of Ethiopia
