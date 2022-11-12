@@ -53,7 +53,7 @@
             "type_id":4,
         },
         
-          {
+        {
             "id":5,
             "name":"Chechebsa",
             "description":"Chechebsa is another very tasty dish served for breakfast. It is prepared from chopped tortilla mixed with butter and berbere. It is usually eaten accompanied with a cup of tea or glass of milk. ",
@@ -66,7 +66,7 @@
             "type_id":5,
         },
         
-          {
+        {
             "id":6,
             "name":"Doro",
             "description":"Doro is a tasty Ethiopian dish that is mostly served on religious holidays and special occasions and offered as a sign of respect to welcome guests. Doro is prepared from a whole chicken cut into 12 parts and cooked with hot sauce of berbere, onion, cardamom, and butter. After it’s cooked, boiled eggs are added and it is served with injera.",
@@ -79,7 +79,7 @@
             "type_id":6,
         },
         
-          {
+        {
             "id":7,
             "name":"Dulet",
             "description":"Dulet is a special non-fasting dish made from ox or sheep kidney, tripe, liver, mitmita, onion, black pepper, cardamom, butter, and chili pepper. It is usually prepared on holidays and served with injera. Dulet is prepared in small portions, giving everybody a tiny portion; as children, nobody would share their dulet. It is a small dish with a big taste that everybody loves.",
@@ -90,10 +90,8 @@
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id":7,
-        },
-        
-        
-          {
+        },  
+        {
             "id":8,
             "name":"Enkulal Ferfer",
             "description":"Enkulal ferfer is made from eggs, onion, butter, and chili pepper and is served with injera or bread. Most people prefer to eat enkulal ferfer for breakfast and it’s a popular food with toddlers and children.",
@@ -106,8 +104,7 @@
             "type_id":8,
         },
         
-        
-          {
+        {
             "id":9,
             "name":"Fasting Ferfer",
             "description":"Fasting Ferfer is commonly consumed during breakfast. It’s made from injera, onion, berbere, garlic, and chili pepper. There are two ways of making ferfer, with either berbere or turmeric. Those who want it hot use berbere, others make it with turmeric to give a lighter, yellowy color.",
@@ -118,10 +115,8 @@
             "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id":9,
-        },
-        
-        
-          {
+        }, 
+        {
             "id":10,
             "name":"Menchet Wot",
             "description":"Menchet wot is prepared from minced meat cooked with berbere, minced onion, cardamom, garlic, ginger, and butter. It is served on injera with boiled egg. Menchet is a very commonly eaten during non-fasting times as most Ethiopians simply love this dish.",
@@ -135,7 +130,7 @@
         },
         
         
-          {
+        {
             "id":11,
             "name":"Kekel",
             "description":"Kekel is a non-fasting food that is usually eaten during holidays. It’s made from the bones of an ox or a sheep and onion, mitmita, butter, and other spices that gives the kekel a good taste. As always, kekel is served with injera. The dish also has medicinal properties. The juices are served as a soup to treat colds or flu. Kekel is also served to help mend broken bones.  ",
@@ -149,7 +144,7 @@
         },
         
         
-          {
+        {
             "id":12,
             "name":"Roasted Fish",
             "description":"Ethiopian fish has a unique taste due to the spices added to the roasting fish. It’s made from fish, garlic, ginger, and flour. Fish is served with bread and lemon; the lemon helps to soften the fish bones. In some parts of Ethiopia, raw fish is eaten with awaze but, to eat it raw, it has to be very fresh, that is, right after it is caught. It is not advisable to eat it raw otherwise as it quickly goes bad.",
@@ -163,7 +158,7 @@
         },
         
         
-          {
+        {
             "id":13,
             "name":"Keye Sega Wot",
             "description":"Keye wot is a non-fasting food made from chopped meat cooked with berbere, onion, garlic, ginger, and butter and served on injera. Keye wot is one of the main dishes served on holidays and special occasions. Ayeb is often served as a side dish to keye wot. The reason for this while keye wot is very tasty, it is also a very hot dish and the ayeb helps to reduce the heat.  ",
@@ -177,7 +172,7 @@
         },
         
         
-          {
+        {
             "id":14,
             "name":"Telba Fitfit",
             "description":"Fasting Fitfit is made from soya beans, injera, onion, berbere, tomato, garlic, and pepper. It is a dish often served at gatherings or religious holidays.",
@@ -201,6 +196,6 @@
             "updated_at": "2022-05-16 11:48:53",
             "type_id":15,
         }
-       s
+       
     ]
 }
