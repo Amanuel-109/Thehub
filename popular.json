@@ -1,5 +1,5 @@
 {
-    "total_size": 15,
+    "total_size": 12,
     "type_id": 2,
     "offset": 0,
     "products": [
@@ -134,10 +134,6 @@
              "created_at": "2021-11-17 10:09:08",
             "updated_at": "2022-05-16 11:48:53",
             "type_id":11
-        },
-        
-        
-        {
-            "id":12,
-            "name":"Roasted Fish",
-            "description":"Ethiopian fish has a unique taste due to the spices added to the roasting fish. It’s made from fish, garlic, ginger, and flour. Fish is served with bread and lemon; the lemon helps to soften the fish bones. In some parts of Ethiopia
+        }
+]
+}
